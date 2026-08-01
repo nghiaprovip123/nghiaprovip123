@@ -2,7 +2,7 @@
 
 # Hi, I'm Nghia Tran 👋
 
-### Product Architect · Platform Engineer · Full-Stack Builder
+### Product Person
 
 I design products as systems — from the user experience and API contracts<br />
 to asynchronous workflows, infrastructure, delivery, and observability.
@@ -14,8 +14,6 @@ to asynchronous workflows, infrastructure, delivery, and observability.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
-
-[About](#about-me) · [What I build](#what-i-build) · [Flagship project](#flagship-project--the-blue-whale) · [Toolbox](#technical-toolbox)
 
 </div>
 
