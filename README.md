@@ -7,7 +7,7 @@
 I design products as systems with **modern and powerful tech stack** (I call **Gen-Z Stack**) — from the user experience and API contracts<br />
 to asynchronous workflows, infrastructure, delivery, and observability.
 
-## 🚀 Tech Stack
+## 🚀 Current Development Stack
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white)](https://www.apollographql.com/)
@@ -18,7 +18,7 @@ to asynchronous workflows, infrastructure, delivery, and observability.
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
 
-## 💻 Supported Platforms
+## 💻 Supported Server Operating Systems
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Ubuntu-Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Arch-Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)](https://archlinux.org/)
