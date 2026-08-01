@@ -2,9 +2,9 @@
 
 # Hi, I'm Edogawa Tr 👋
 
-### Product Person
+### Product Person 
 
-I design products as systems — from the user experience and API contracts<br />
+I design products as systems with **modern and powerful tech stack** (I call **Gen-Z Stack**) — from the user experience and API contracts<br />
 to asynchronous workflows, infrastructure, delivery, and observability.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
