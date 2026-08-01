@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nghia Tran 👋
+# Hi, I'm Edogawa Tr 👋
 
 ### Product Person
 
