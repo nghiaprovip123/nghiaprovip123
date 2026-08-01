@@ -8,15 +8,26 @@ I design products as systems with **modern and powerful tech stack** (I call **G
 to asynchronous workflows, infrastructure, delivery, and observability.
 
 ## 🚀 Current Development Stack
+### Programming Language
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### Backend & API
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white)](https://www.apollographql.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
-[![BullMQ](https://img.shields.io/badge/BullMQ-EA4C89?logo=redis&logoColor=white)](https://bullmq.io/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+### Database & Cache
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+
+### Background Jobs
+[![BullMQ](https://img.shields.io/badge/BullMQ-EA4C89?logo=redis&logoColor=white)](https://bullmq.io/)
+
+### Infrastructure & Observability
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+[![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
 
 ## 💻 Supported Operating Systems
 [![Ubuntu-Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
