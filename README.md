@@ -51,6 +51,11 @@ I care about the full path from concept to production:
 ```text
 Product intent → System design → Working software → Reliable operations
 ```
+## Currently exploring
+
+- Event-driven and queue-based architectures for real-world workloads
+- Practical AI-assisted workflows through MCP
+- Lightweight, self-managed infrastructure tools: **Kubernetes / Harbor / Prometheus / Thanos**
 
 ## What I build
 
@@ -118,11 +123,6 @@ flowchart LR
     LEARN --> IDEA
 ```
 
-## Currently exploring
-
-- Event-driven and queue-based architectures for real-world workloads
-- Practical AI-assisted workflows through MCP
-- Lightweight, self-managed infrastructure tools: Kubernetes / Harbor / Prometheus / Thanos
 
 ---
 
