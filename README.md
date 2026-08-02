@@ -148,23 +148,11 @@ flowchart LR
 | **Observability** | Winston, Morgan, Loki, Grafana, structured JSON logging |
 | **AI systems** | Model Context Protocol, MCP servers, Claude Desktop integration |
 
-## How I think about systems
-
-1. **Start with the product outcome.** Architecture should explain how it creates user and business value.
-2. **Keep boundaries explicit.** APIs, queues, databases, and internal tools need clear ownership and contracts.
-3. **Use the right tool for the workload.** One database or execution model rarely fits every concern.
-4. **Move slow work out of the request path.** Async processing protects responsiveness and resilience.
-5. **Automate the path to production.** Repeatability is a prerequisite for safe iteration.
-6. **Design for operation, not just deployment.** A system is only production-ready when teams can understand its behavior.
-7. **Give AI deliberate access.** Tool-based integrations should expose useful capabilities without opening unrestricted paths.
-
 ## Currently exploring
 
-- Product platforms that balance delivery speed with operational clarity
 - Event-driven and queue-based architectures for real-world workloads
 - Practical AI-assisted workflows through MCP
-- Lightweight, self-managed Kubernetes environments
-- Better feedback loops between product decisions and production telemetry
+- Lightweight, self-managed infrastructure tools: Kubernetes / Harbor / Prometheus / Thanos
 
 ---
 
