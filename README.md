@@ -105,21 +105,6 @@ flowchart LR
     class OPS operate
 ```
 
-### Architecture decisions behind it
-
-| Decision | Product and engineering value |
-|---|---|
-| **Next.js SSR with App Router** | Fast, indexable product experiences with a modern component model |
-| **GraphQL on Express** | A flexible API contract with room for REST interoperability and subscriptions |
-| **JWT, OAuth, and Zod** | Explicit identity, authorization, and runtime validation boundaries |
-| **BullMQ workers** | Reliable processing for media and avatar workloads outside the request path |
-| **MongoDB + PostgreSQL** | Document flexibility for product data and relational integrity for identity data |
-| **Redis** | Shared foundation for queues, cache, and session workloads |
-| **MCP server** | Controlled access to internal platform tools from Claude Desktop |
-| **k3s + Traefik** | A compact, self-managed Kubernetes runtime with ingress and automated TLS |
-| **GitHub Actions** | Repeatable build, test, image publication, and rolling deployment |
-| **Winston → Loki → Grafana** | Structured, searchable telemetry from services to operational dashboards |
-
 ### Delivery philosophy
 
 ```mermaid
@@ -132,21 +117,6 @@ flowchart LR
     OBSERVE --> LEARN["Product learning"]
     LEARN --> IDEA
 ```
-
-## Technical toolbox
-
-| Domain | Tools and technologies |
-|---|---|
-| **Frontend** | Next.js, React, App Router, SSR, TypeScript |
-| **API & backend** | Node.js, Express.js, Apollo Server, GraphQL, subscriptions, Zod |
-| **Identity & security** | JWT, OAuth, authorization boundaries, runtime validation |
-| **Async processing** | BullMQ, Redis, scheduled jobs, worker services, Bull Board |
-| **Data** | MongoDB Atlas, PostgreSQL, Prisma ORM, Redis |
-| **Media** | Cloudinary, asynchronous upload workflows, CDN delivery |
-| **Infrastructure** | Docker, Docker Compose, Kubernetes, k3s, Traefik, cert-manager |
-| **CI/CD** | GitHub Actions, container registries, rolling deployments |
-| **Observability** | Winston, Morgan, Loki, Grafana, structured JSON logging |
-| **AI systems** | Model Context Protocol, MCP servers, Claude Desktop integration |
 
 ## Currently exploring
 
